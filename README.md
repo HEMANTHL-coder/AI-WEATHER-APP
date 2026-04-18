@@ -8,7 +8,7 @@
 🔗 https://ai-weather-app-beige.vercel.app/
 
 ## 💻 GitHub Repository
-🔗 
+🔗 https://github.com/HEMANTHL-coder/AI-WEATHER-APP.git
 
 ---
 
