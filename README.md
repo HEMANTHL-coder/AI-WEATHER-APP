@@ -1,21 +1,102 @@
-<<<<<<< HEAD
-# AI-WEATHER-APP
-Project: Premium AI Weather App (Gemini + Antigravity UI) 🧠 What makes it “Premium”  Not just normal weather app — you will add:  🌍 Real-time weather API 🤖 AI insights (Gemini) 🎨 Advanced UI (Ant Design / Tailwind / Framer Motion) 📊 Smart suggestions (clothing, travel, alerts) 📍 Location-based + search
-=======
-# React + Vite
+# 🚀 AI Weather Pro 🌦️🤖
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> A modern AI-powered weather application that provides real-time weather data along with intelligent insights using Google Gemini.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🌐 Live Demo
+🔗 https://ai-weather-app-beige.vercel.app/
 
-## React Compiler
+## 💻 GitHub Repository
+🔗 
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 📌 About the Project
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
->>>>>>> fdb0dac (Initial commit: AI Weather Pro build)
+AI Weather Pro is not just a normal weather app.  
+It combines **real-time weather data** with **AI-generated insights** to provide a smarter user experience.
+
+Instead of only showing temperature and conditions, this app helps users with:
+- What to wear 👕  
+- Travel suggestions ✈️  
+- Daily activity recommendations 🚶  
+
+---
+
+## ✨ Features
+
+✔ Search weather by city  
+✔ Real-time temperature, humidity, wind  
+✔ AI-powered suggestions using Google Gemini  
+✔ Voice search support 🎤  
+✔ Modern UI (glassmorphism design)  
+✔ Fully responsive (mobile + desktop)  
+✔ Fast performance using Vite  
+
+---
+
+## 🧠 AI Feature (Highlight)
+
+This app integrates **Google Gemini API** to generate intelligent suggestions based on live weather.
+
+### Example:
+Temperature: 27°C, Clear Sky  
+
+AI Output:
+- Wear light clothes 👕  
+- Good time for outdoor activities 🌳  
+- Stay hydrated 💧  
+
+---
+
+## 🛠️ Tech Stack
+
+- React (Vite)  
+- JavaScript  
+- Tailwind CSS  
+- Weather API  
+- Google Gemini API  
+- Vercel / Netlify  
+
+---
+
+## 📂 Project Structure
+src/
+├── components/
+│ ├── WeatherCard.jsx
+│ ├── SearchBar.jsx
+│ ├── AISuggestions.jsx
+│
+├── App.jsx
+├── main.jsx
+
+
+---
+
+## ⚙️ Installation
+
+```bash
+-git clone https://github.com/YOUR_USERNAME/AI-WEATHER-APP.git
+-cd AI-WEATHER-APP
+-npm install
+-npm run dev
+## 🔐 Environment Variables
+
+Create a .env file:
+
+VITE_WEATHER_API_KEY=your_weather_api_key
+VITE_GEMINI_API_KEY=your_gemini_api_key
+
+##🎯 What I Learned
+API integration in real-world apps
+Using AI in frontend applications
+Building responsive UI
+Deployment using Vercel
+---
+
+##👨‍💻 Author
+
+YOUR NAME
+LinkedIn: https://www.linkedin.com/in/hemanth-l-510486396/
+GitHub:https://github.com/HEMANTHL-coder/
